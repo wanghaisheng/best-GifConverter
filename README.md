@@ -1,4 +1,4 @@
-# 🍪 MF-TurbineMonitor
+# 🍪 MF-GifConverter
 
 > 一个支持图片、视频、录像、录屏转 GIF 的在线程序
 
